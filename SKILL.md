@@ -1,11 +1,9 @@
 ---
 name: quality-dissolution
-description: Dissolve the distinction between "primary" qualities (shape, extension,
-  motion) and "secondary" qualities (color, taste, sound) by showing that the same
-  arguments that make one mind-dependent apply...
+description: Dissolve the distinction between "primary" qualities (shape, extension, motion) and "secondary" qualities (color, taste, sound) by showing that the same arguments that make one mind-dependent apply...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - quality-dissolution
